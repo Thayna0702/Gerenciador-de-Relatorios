@@ -16,23 +16,21 @@ Executar no terminal VSCode: bash pip install customtkinter pandas openpyxl
 A Linguagem python no computador; 
 
 Bibliotecas: 
-customtkinter   5.2.2 
-darkdetect      0.8.0 
-et_xmlfile      2.0.0 
-numpy           2.4.6 
-openpyxl        3.1.5 
-packaging       26.2 
-pandas          3.0.3 
-pip             26.1.2 
-python-dateutil 2.9.0.post0 
-six             1.17.0 
-tzdata          2026.2 
-
-datetime: datas e horários; 
-os:  descobrir caminhos de arquivos no computador; 
-importsqlite3: Banco de Dados; 
-customtkinter: design; 
-pandas: Biblioteca que pega os dados e transforma em uma planilha Excel; 
+Visual:
+customtkinter   5.2.2 
+darkdetect      0.8.0 
+Exportação:
+et_xmlfile      2.0.0 
+openpyxl        3.1.5 
+Banco de dados:
+numpy           2.4.6 
+pandas          3.0.3 
+python-dateutil 2.9.0.post0 
+tzdata          2026.2 
+Gerenciamento:
+packaging       26.2 
+pip             26.1.2 
+six             1.17.0
 
 ESCOPO
 
